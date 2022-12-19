@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **thomaskuijv@gmail.com**
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkuijvenhoven&show_icons=true&locale=en&layout=compact" alt="tkuijvenhoven" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkuijvenhoven&show_icons=true&locale=en&layout=compact" alt="tkuijvenhoven" /></p>
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
