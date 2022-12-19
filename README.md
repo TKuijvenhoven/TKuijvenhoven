@@ -1,4 +1,4 @@
-<img src="[https://media.discordapp.net/attachments/1054355603549589557/1054358297693667348/image_30.png?width=1440&height=450]" alt="Girl in a jacket">
+<img src="https://cdn.discordapp.com/attachments/1054355603549589557/1054359872973570088/image_30.png" alt="Girl in a jacket">
 
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A passionate Software Developer from Netherlands</h3>
