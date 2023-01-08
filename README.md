@@ -10,8 +10,3 @@
 - 🌱 I’m currently learning **C# and Unreal Engine 5**
 
 - 📫 How to reach me **thomaskuijv@gmail.com**
-
-
-
-
-
