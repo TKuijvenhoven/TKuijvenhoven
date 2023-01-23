@@ -6,6 +6,6 @@
 
 - 🔭 I’m currently working on [thomaskuijv.com](thomaskuijv.com)
 
-- 🌱 I’m currently learning **C# and Unreal Engine 5**
+- 🌱 I’m currently learning **??**
 
 - 📫 How to reach me **thomaskuijv@gmail.com**
