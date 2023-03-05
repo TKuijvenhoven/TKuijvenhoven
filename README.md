@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software Developer from the Netherlands</h3>
 <br>
 
-- 🔭 I’m currently working on [thomaskuijv.com](thomaskuijv.com)
+- 🔭 I’m currently working on [thomaskuijv.com](https://thomaskuijv.com/)
 
 - 🌱 I’m currently learning **??**
 
