@@ -6,6 +6,6 @@
 
 - 🔭 I’m currently working on [thomaskuijv.com](https://thomaskuijv.com/)
 
-- 🌱 I’m currently learning **Typescript + More**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **thomaskuijv@gmail.com**
